@@ -2,6 +2,9 @@
 
 A web chatbot built with NextJS using openAI API.
 
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/d807ed2b-5091-44f4-b2f8-54bb439960cd">
+
+
 ## Getting Started
 
 First, create a `.env` file in root directory:
